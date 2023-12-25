@@ -130,19 +130,5 @@ gfg_plot <- ggplot(acct_owner_by_gender, aes(x=year)) +
   geom_line(aes(y = 'Italy_m'), color = "violet")
   print(gfg_plot + labs(y = "Level of Education Percentage", x = "Year"))
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </body>
 </html>
